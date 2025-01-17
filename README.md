@@ -11,3 +11,5 @@
 **BATCH DURATION** :January 10th, 2025 to February 10th, 2025.
 
 **MENTOR NAME** :Neela Santhosh Kumar 
+
+**output** :https://github.com/aparnanelapolu/API-INTEGRATION-AND-DATA-VISUALIZATION 
